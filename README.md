@@ -2,8 +2,6 @@
 
 ### Education
 Meteorology and climate science, Bsc
-Nueromatch Academy
-Home skool
 
 ### Experience
 Intern @ JNAA LAB
