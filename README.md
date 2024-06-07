@@ -2,7 +2,11 @@
 Technical Skills: Python,Streamlit,Power BI,Arcgis
 
 ### Education
-Meteorology and climate science, Bsc
+Bsc,Meteorology and Climate Science - Kwame Inkrumah University of Science and Technology
+Data Science Mastery - Home skool
+Computational tools for climate students - Neuromatch Academy, class of 2024
+General science,(WASSCE CERTIFICATE) - St.John's Grammar Senior High School
+
 
 ### Experience
 Teaching and Research Assistant @ University of Energy and Natural Resources (UENR)
@@ -21,4 +25,10 @@ Intern @ INTERN CAREER
 - dashboards with Power BI
 - python
   
-### Projects
+### Projects/Research works
+- Assesment of The Heavy rainfall Dynamics in the Central Region of Ghan
+- logistic Regression model for predicting Rainfall (mini project)
+- Streamlit weather analysis dashboard
+  
+### Ongoing Research Work
+- Deternining the main growing season for the Bono Region of Ghana
